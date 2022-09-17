@@ -14,6 +14,10 @@ This project was built by me using HTML and CSS. It used as a refresher to pract
 ### CSS Crash Course
 ![css-crashcourse](https://user-images.githubusercontent.com/78431899/190878380-aa586a70-f2c1-46db-8ba5-bd34c8797f5d.png)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9e52ec1ac82b22c1189919cc12dd16db64bbd516
 ## Technologies Used
 * HTML
 * CSS
@@ -24,4 +28,8 @@ No need to install any software, just open up index.html and run it
 ## How To Use ?
 No login required. 
 
+<<<<<<< HEAD
 - HTML Layout practice, CSS selectors
+=======
+- HTML Layout practice, CSS selectors practice.
+>>>>>>> 9e52ec1ac82b22c1189919cc12dd16db64bbd516
