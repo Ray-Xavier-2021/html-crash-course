@@ -1,0 +1,56 @@
+/* SELECTORS */
+/* h2 selector */
+h1 {
+    /* Declarations */
+    /* Sets color of text */
+    color: #00f; /* #hex for blue; #0000ff*/
+}
+
+/* Chain selector */
+h1  a {
+    color: #0f0; /* #hex for green; #00ff00*/
+}
+
+h2 a:hover {
+    color: #f00; /* #hex for red; #ff0000*/
+    /* Code from CSS matic */
+    -webkit-box-shadow: 0px 2px 2px 2px rgba(255,191,80,1);
+    -moz-box-shadow: 0px 2px 2px 2px rgba(255,191,80,1);
+    box-shadow: 0px 2px 2px 2px rgba(255,191,80,1);
+}
+
+/* ID selector */
+#chessboard {
+    /* Adds rounded corners */
+    border-radius: 4px;
+    /* Sets the width */
+    width: 100px;
+    /* Sets right margin */
+    margin-right: 5px;
+}
+
+#chessboard:hover {
+    box-shadow: 4px 4px 4px 4px red;
+}
+
+/* Class selector */
+.chessboard {
+    border-radius: 4px;
+    width: 100px;
+    /* Sets a box shadow */
+    box-shadow: 4px 4px orange;
+    /* Sets left margin */
+    margin-left: 5px;
+}
+
+ul  li:hover {
+    color: orange;
+}
+
+ul li a {
+    color: pink;
+    /* Remove text styling */
+    text-decoration: none;
+    /* Remove list styling */
+    list-style: none;
+}
