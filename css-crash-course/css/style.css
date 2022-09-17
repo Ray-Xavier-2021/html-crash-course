@@ -1,4 +1,16 @@
 /* SELECTORS */
+/* Body selector */
+body {
+    /* Sets a background image */
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/598/558/original/abstract-colorful-low-poly-vector-background-with-warm-gradient-futuristic-pattern.jpg');
+    /* Sets style of font */
+    font-family: 'Montserrat' serif;
+    /* Sets maximum width */
+    max-width: 300px;
+    /* Sets margin to auto: 'center' */
+    margin: auto;
+
+}
 /* h2 selector */
 h1 {
     /* Declarations */
@@ -24,7 +36,7 @@ h2 a:hover {
     /* Adds rounded corners */
     border-radius: 4px;
     /* Sets the width */
-    width: 100px;
+    width: 80px;
     /* Sets right margin */
     margin-right: 5px;
 }
@@ -36,7 +48,7 @@ h2 a:hover {
 /* Class selector */
 .chessboard {
     border-radius: 4px;
-    width: 100px;
+    width: 80px;
     /* Sets a box shadow */
     box-shadow: 4px 4px orange;
     /* Sets left margin */
