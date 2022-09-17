@@ -6,10 +6,10 @@ This project was built by me using HTML. It used as a refresher to practice my H
 
 
 ### HTML Crash Course
-![](../../../../../Pictures/Screenshots/html-cc.png)
+![html-cc](https://user-images.githubusercontent.com/78431899/190872995-7a7a7f44-9248-4d20-a93f-22b71be99edf.png)
 
 ### Sales Page
-![](../../../../../Pictures/Screenshots/sales-page.png)
+![sales-page](https://user-images.githubusercontent.com/78431899/190872974-1c327b17-1b35-4f2b-9585-2e8c628b3b0d.png)
 
 ## Technologies Used
 * HTML
